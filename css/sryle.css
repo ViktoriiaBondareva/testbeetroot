@@ -1,0 +1,6 @@
+html, body {
+    font-size: 17px;
+    min-height: 100vh;
+    background: linear-gradient(#e6ede7, #12ddcc);
+    font-family: 'Courier New', Courier, monospace;
+}
